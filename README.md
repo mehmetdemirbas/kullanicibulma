@@ -11,3 +11,4 @@ twitter.com/saltanatbekcisi
 
 mehmetd.php@gmail.com
 
+Geliştiriciler herhangi bir sorumluluk kabul etmez ve bu programın neden olduğu yanlış kullanım veya hasarlardan sorumlu değildir !
